@@ -3,7 +3,7 @@
 	"short_name": "Tracker",
 	"description": "An app that lets you track budget incomes and expenditures.",
 	"display": "standalone",
-	"start_url": "./index.html",
+	"start_url": "/index.html",
 	"background_color": "#ffffff",
 	"theme_color": "#6666ff",
 	"icons": [
